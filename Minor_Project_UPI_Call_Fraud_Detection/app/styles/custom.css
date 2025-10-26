@@ -1,0 +1,8 @@
+[data-testid="stMetricValue"] {
+    color: #1F618D;
+    font-weight: 700;
+}
+[data-testid="stMetricLabel"] {
+    color: #616A6B;
+    font-size: 0.9rem;
+}

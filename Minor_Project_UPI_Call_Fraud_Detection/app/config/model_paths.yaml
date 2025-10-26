@@ -1,0 +1,19 @@
+upi:
+  xgb: "Models/upi_ensemble/xgb_best.joblib"
+  rf: "Models/upi_ensemble/rf_best.joblib"
+  lr_meta: "Models/upi_ensemble/lr_best.joblib"
+  iso: "Models/upi_ensemble/iso_model.joblib"
+  ae: "Models/upi_ensemble/autoencoder.keras"
+  scaler_ae: "Models/upi_ensemble/scaler_ae.joblib"
+  scaler_iso: "Models/upi_ensemble/scaler_iso.joblib"
+  scaler_lr: "Models/upi_ensemble/scaler_lr.joblib"
+
+cdr:
+  xgb: "Models/cdr_ensemble/cdr_xgb.joblib"
+  rf: "Models/cdr_ensemble/cdr_rf.joblib"
+  lr_meta: "Models/cdr_ensemble/cdr_lr.joblib"
+  iso: "Models/cdr_ensemble/cdr_iso.joblib"
+  ae: "Models/cdr_ensemble/cdr_autoencoder.keras"
+  scaler_ae: "Models/cdr_ensemble/scaler_ae.joblib"
+  scaler_iso: "Models/cdr_ensemble/scaler_iso.joblib"
+  scaler_lr: "Models/cdr_ensemble/scaler_lr.joblib"

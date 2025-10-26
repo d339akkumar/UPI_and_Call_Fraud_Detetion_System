@@ -1,0 +1,24 @@
+cdr_features:
+  - call_duration
+  - log_call_duration
+  - is_short_call
+  - is_long_call
+  - call_cost
+  - cost_per_sec
+  - cost_per_min
+  - log_call_cost
+  - cost_to_duration_ratio
+  - tower_switch_rate
+  - high_tower_switch
+  - imei_change_rate
+  - imsi_change_rate
+  - avg_call_duration_by_caller
+  - deviation_from_avg_duration
+  - repeated_short_calls_last_1h
+  - distinct_callees_last_24h
+  - short_call_ratio
+  - caller_activity_rate
+  - is_night_call
+  - is_peak_hour
+  - is_international
+  - is_roaming
