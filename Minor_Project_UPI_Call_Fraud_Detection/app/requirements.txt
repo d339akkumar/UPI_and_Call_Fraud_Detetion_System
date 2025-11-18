@@ -8,3 +8,6 @@ imblearn
 plotly
 joblib
 pyyaml
+matplotlib==3.9.2
+seaborn
+
